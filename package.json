@@ -1,0 +1,22 @@
+{
+  "name": "gulp-collect-pattern",
+  "version": "1.0.0",
+  "description": "Extract text by regular expression and collect it in a file with gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "transform",
+    "regex",
+    "extract"
+  ],
+  "author": "Timothy Johnson",
+  "license": "GPL-3.0",
+  "repository": "github:RedHatter/gulp-collect-pattern",
+  "dependencies": {
+    "gulp-replace": "^0.6.1",
+    "plugin-error": "^1.0.1"
+  }
+}
